@@ -39,12 +39,12 @@ The dataset contains:
 
 ##  Project Features
 
-✔ Data Cleaning  
-✔ Data Analysis  
-✔ Average Score Calculation  
-✔ Maximum & Minimum Score Analysis  
-✔ Data Visualization  
-✔ Performance Insights  
+- Data Cleaning  
+- Data Analysis  
+- Average Score Calculation  
+- Maximum & Minimum Score Analysis  
+- Data Visualization  
+- Performance Insights  
 
 ---
 
